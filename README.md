@@ -1,7 +1,7 @@
 # Practica-Control-Micros
 Este repositorio contiene los 4 puntos solicitados en la guía de prácticas facilitada.
 ## Introducción
-Esta práctica consistió en la programación de un arduino, pero realizada de manera correcta, es decir, respetando todas los conceptos de programación C, revisados en clase.
+Esta práctica consistió en la programación de un arduino, pero realizada de manera correcta, es decir, respetando todas los conceptos de programación C, revisados en clase, el único programa comentado es el cuatro, peusto que contiene las versiones finales tanto de la modularización del antirrebotes, semáforo y de la comunicación UART.
 ## Primer programa
 En el primer programa, se realiza una aplicación para resolver el problema de los rebotes eléctricos en un pulsador pero mediante programación, de esta forma, se evita el uso de capacitores, en esta primera instancia se resuelve este problema mediante máquina de estados, pero solo para un pulsante.
 ## Segundo programa
